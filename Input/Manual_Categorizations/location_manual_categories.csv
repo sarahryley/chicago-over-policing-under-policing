@@ -1,0 +1,180 @@
+location_description,n,location_in_out,location_group
+ABANDONED BUILDING,11380,Inside,Lot/Vacant
+AIRCRAFT,673,Vehicle/Transit/Boat,Airport
+AIRPORT BUILDING NON-TERMINAL - NON-SECURE AREA,888,Inside,Airport
+AIRPORT BUILDING NON-TERMINAL - SECURE AREA,589,Inside,Airport
+AIRPORT EXTERIOR - NON-SECURE AREA,804,Outside,Airport
+AIRPORT EXTERIOR - SECURE AREA,295,Outside,Airport
+AIRPORT PARKING LOT,751,Outside,Airport
+AIRPORT TERMINAL LOWER LEVEL - NON-SECURE AREA,1718,Inside,Airport
+AIRPORT TERMINAL LOWER LEVEL - SECURE AREA,654,Inside,Airport
+AIRPORT TERMINAL MEZZANINE - NON-SECURE AREA,84,Inside,Airport
+AIRPORT TERMINAL UPPER LEVEL - NON-SECURE AREA,723,Inside,Airport
+AIRPORT TERMINAL UPPER LEVEL - SECURE AREA,4029,Inside,Airport
+AIRPORT TRANSPORTATION SYSTEM (ATS),93,Vehicle/Transit/Boat,Airport
+AIRPORT VENDING ESTABLISHMENT,898,Inside,Airport
+AIRPORT/AIRCRAFT,16118,Inside,Airport
+ALLEY,154918,Outside,Sidewalk/Roadway
+ANIMAL HOSPITAL,794,Inside,Commercial
+APARTMENT,726002,Inside,Residential
+APPLIANCE STORE,1867,Inside,Commercial
+ATHLETIC CLUB,8450,Inside,Commercial
+ATM (AUTOMATIC TELLER MACHINE),7823,Unclear/Unspecified,Commercial
+AUTO,1137,Vehicle/Transit/Boat,Vehicle
+AUTO / BOAT / RV DEALERSHIP,382,Unclear/Unspecified,Commercial
+BANK,28306,Inside,Commercial
+BANQUET HALL,1,Inside,Commercial
+BAR OR TAVERN,37816,Inside,Commercial
+BARBER SHOP/BEAUTY SALON,14,Inside,Commercial
+BARBERSHOP,7886,Inside,Commercial
+BASEMENT,31,Inside,Unclear/Unspecified
+BOAT/WATERCRAFT,696,Vehicle/Transit/Boat,Vehicle
+BOWLING ALLEY,692,Inside,Commercial
+BRIDGE,397,Outside,Sidewalk/Roadway
+CAR WASH,2874,Unclear/Unspecified,Commercial
+CEMETARY,356,Outside,Park/Nature
+CHA APARTMENT,36572,Inside,Residential
+CHA BREEZEWAY,3,Outside,Residential
+CHA ELEVATOR,2,Inside,Residential
+CHA GROUNDS,43,Outside,Residential
+CHA HALLWAY,35,Inside,Residential
+CHA HALLWAY/STAIRWELL/ELEVATOR,24950,Inside,Residential
+CHA LOBBY,6,Inside,Residential
+CHA PARKING LOT,42,Outside,Residential
+CHA PARKING LOT/GROUNDS,55897,Outside,Residential
+CHA PLAY LOT,4,Outside,Park/Nature
+CHA STAIRWELL,8,Inside,Residential
+CHURCH,6,Inside,Religious
+CHURCH PROPERTY,2,Unclear/Unspecified,Religious
+CHURCH/SYNAGOGUE/PLACE OF WORSHIP,15314,Inside,Religious
+CLEANERS/LAUNDROMAT,1,Inside,Commercial
+CLEANING STORE,4792,Inside,Commercial
+CLUB,15,Inside,Commercial
+COACH HOUSE,3,Inside,Residential
+COIN OPERATED MACHINE,1059,Unclear/Unspecified,Commercial
+COLLEGE/UNIVERSITY GROUNDS,5724,Outside,University
+COLLEGE/UNIVERSITY RESIDENCE HALL,1383,Inside,University
+COMMERCIAL / BUSINESS OFFICE,50576,Inside,Commercial
+CONSTRUCTION SITE,13158,Outside,Lot/Vacant
+CONVENIENCE STORE,17739,Inside,Commercial
+COUNTY JAIL,2,Inside,Government
+CREDIT UNION,506,Inside,Commercial
+"CTA """"L"""" PLATFORM",5,Unclear/Unspecified,Transit
+"CTA """"L"""" TRAIN",2,Vehicle/Transit/Boat,Transit
+CTA BUS,22351,Vehicle/Transit/Boat,Transit
+CTA BUS STOP,6555,Outside,Transit
+CTA GARAGE / OTHER PROPERTY,10144,Unclear/Unspecified,Transit
+CTA PLATFORM,37250,Unclear/Unspecified,Transit
+CTA PROPERTY,4,Unclear/Unspecified,Transit
+CTA STATION,4813,Unclear/Unspecified,Transit
+CTA TRACKS - RIGHT OF WAY,138,Outside,Transit
+CTA TRAIN,25799,Vehicle/Transit/Boat,Transit
+CURRENCY EXCHANGE,11011,Inside,Commercial
+DAY CARE CENTER,2909,Inside,Commercial
+DELIVERY TRUCK,962,Vehicle/Transit/Boat,Vehicle
+DEPARTMENT STORE,87466,Inside,Commercial
+DRIVEWAY,17,Outside,Unclear/Unspecified
+DRIVEWAY - RESIDENTIAL,20109,Outside,Residential
+DRUG STORE,31507,Inside,Commercial
+DUMPSTER,7,Outside,Lot/Vacant
+ELEVATOR,1,Inside,Unclear/Unspecified
+EXPRESSWAY EMBANKMENT,1,Outside,Sidewalk/Roadway
+FACTORY,2,Inside,Commercial
+FACTORY/MANUFACTURING BUILDING,6853,Inside,Commercial
+FARM,5,Outside,Commercial
+FEDERAL BUILDING,810,Inside,Government
+FIRE STATION,1036,Inside,Government
+FOREST PRESERVE,388,Outside,Park/Nature
+FUNERAL PARLOR,1,Inside,Commercial
+GANGWAY,67,Outside,Unclear/Unspecified
+GARAGE,56,Inside,Commercial
+GARAGE/AUTO REPAIR,11,Inside,Commercial
+GAS STATION,74988,Inside,Commercial
+GAS STATION DRIVE/PROP.,44,Outside,Commercial
+GOVERNMENT BUILDING,2,Inside,Government
+GOVERNMENT BUILDING/PROPERTY,14524,Inside,Government
+GROCERY FOOD STORE,90050,Inside,Commercial
+HALLWAY,84,Inside,Unclear/Unspecified
+HIGHWAY/EXPRESSWAY,1069,Outside,Sidewalk/Roadway
+HORSE STABLE,2,Inside,Commercial
+HOSPITAL,8,Inside,Government
+HOSPITAL BUILDING/GROUNDS,21592,Unclear/Unspecified,Government
+HOTEL,19,Inside,Commercial
+HOTEL/MOTEL,29220,Inside,Commercial
+HOUSE,539,Inside,Residential
+JAIL / LOCK-UP FACILITY,1078,Inside,Government
+JUNK YARD/GARBAGE DUMP,1,Outside,Lot/Vacant
+KENNEL,5,Unclear/Unspecified,Commercial
+LAGOON,1,Outside,Park/Nature
+LAKE,3,Outside,Park/Nature
+LAKEFRONT/WATERFRONT/RIVERBANK,1173,Outside,Park/Nature
+LAUNDRY ROOM,2,Inside,Residential
+LIBRARY,6112,Inside,Commercial
+LIQUOR STORE,7,Inside,Commercial
+LIVERY AUTO,1,Vehicle/Transit/Boat,Vehicle
+LIVERY STAND OFFICE,2,Inside,Commercial
+LOADING DOCK,1,Outside,Commercial
+MEDICAL/DENTAL OFFICE,7318,Inside,Commercial
+MOTEL,5,Inside,Commercial
+MOVIE HOUSE/THEATER,2670,Inside,Commercial
+NEWSSTAND,234,Unclear/Unspecified,Commercial
+NURSING HOME,5,Inside,Residential
+NURSING HOME/RETIREMENT HOME,14195,Inside,Residential
+OFFICE,15,Inside,Commercial
+OTHER,265251,Unclear/Unspecified,Unclear/Unspecified
+OTHER COMMERCIAL TRANSPORTATION,3031,Vehicle/Transit/Boat,Vehicle
+OTHER RAILROAD PROP / TRAIN DEPOT,5872,Inside,Railroad
+PARK PROPERTY,53772,Outside,Park/Nature
+PARKING LOT,163,Outside,Lot/Vacant
+PARKING LOT/GARAGE(NON.RESID.),199792,Outside,Lot/Vacant
+PAWN SHOP,577,Inside,Commercial
+POLICE FACILITY/VEH PARKING LOT,18189,Unclear/Unspecified,Government
+POOL ROOM,914,Inside,Commercial
+POOLROOM,1,Inside,Commercial
+PORCH,305,Outside,Residential
+PRAIRIE,2,Outside,Park/Nature
+PUBLIC GRAMMAR SCHOOL,1,Inside,School
+PUBLIC HIGH SCHOOL,2,Inside,School
+RAILROAD PROPERTY,14,Inside,Railroad
+RESIDENCE,1178413,Inside,Residential
+RESIDENCE PORCH/HALLWAY,121797,Unclear/Unspecified,Residential
+RESIDENCE-GARAGE,134259,Inside,Residential
+RESIDENTIAL YARD (FRONT/BACK),73305,Outside,Residential
+RESTAURANT,111388,Inside,Commercial
+RETAIL STORE,72,Inside,Commercial
+RIVER,4,Outside,Park/Nature
+RIVER BANK,4,Outside,Park/Nature
+ROOMING HOUSE,2,Inside,Residential
+SAVINGS AND LOAN,362,Inside,Commercial
+SCHOOL YARD,11,Outside,School
+"SCHOOL, PRIVATE, BUILDING",13900,Inside,School
+"SCHOOL, PRIVATE, GROUNDS",4202,Outside,School
+"SCHOOL, PUBLIC, BUILDING",144897,Inside,School
+"SCHOOL, PUBLIC, GROUNDS",29800,Outside,School
+SEWER,3,Unclear/Unspecified,Government
+SIDEWALK,681513,Outside,Sidewalk/Roadway
+SMALL RETAIL STORE,124794,Inside,Commercial
+SPORTS ARENA/STADIUM,5189,Unclear/Unspecified,Commercial
+STAIRWELL,19,Inside,Unclear/Unspecified
+STREET,1816727,Outside,Sidewalk/Roadway
+TAVERN,34,Inside,Commercial
+TAVERN/LIQUOR STORE,22213,Inside,Commercial
+TAXI CAB,6,Vehicle/Transit/Boat,Vehicle
+TAXICAB,7431,Vehicle/Transit/Boat,Vehicle
+TRAILER,4,Inside,Residential
+TRUCK,8,Vehicle/Transit/Boat,Vehicle
+TRUCKING TERMINAL,1,Outside,Commercial
+VACANT LOT,104,Outside,Lot/Vacant
+VACANT LOT/LAND,24424,Outside,Lot/Vacant
+VEHICLE - DELIVERY TRUCK,153,Vehicle/Transit/Boat,Vehicle
+VEHICLE - OTHER RIDE SERVICE,332,Vehicle/Transit/Boat,Vehicle
+"VEHICLE - OTHER RIDE SHARE SERVICE (E.G., UBER, LYFT)",377,Vehicle/Transit/Boat,Vehicle
+VEHICLE NON-COMMERCIAL,112190,Vehicle/Transit/Boat,Vehicle
+VEHICLE-COMMERCIAL,5542,Vehicle/Transit/Boat,Vehicle
+VEHICLE-COMMERCIAL - ENTERTAINMENT/PARTY BUS,8,Vehicle/Transit/Boat,Vehicle
+VEHICLE-COMMERCIAL - TROLLEY BUS,10,Vehicle/Transit/Boat,Transit
+VESTIBULE,17,Inside,Unclear/Unspecified
+WAREHOUSE,9454,Inside,Commercial
+WOODED AREA,7,Outside,Park/Nature
+YARD,211,Outside,Unclear/Unspecified
+YMCA,3,Inside,Commercial

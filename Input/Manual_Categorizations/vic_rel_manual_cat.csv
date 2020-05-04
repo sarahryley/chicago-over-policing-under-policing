@@ -1,0 +1,63 @@
+victim_rel_to_offender,victim_rel_cat_inferred
+NEIGHBOR,Otherwise Known
+CO-WORKER,Otherwise Known
+EMPLOYER,Otherwise Known
+WARD,Other
+LANDLORD,Otherwise Known
+CUSTOMER,Other
+LANDLADY,Otherwise Known
+PROPRIETOR,Other
+CARETAKER,Other Family
+DOCTOR,Other
+EMPLOYEE,Otherwise Known
+EX-ROOMMATES,Otherwise Known
+FOSTER MOTHER,Other Family
+FOSTER SON,Other Family
+GRANDSON,Other Family
+ROOMER,Otherwise Known
+TENANT,Otherwise Known
+GIRLFRIEND,Romantic
+BOYFRIEND,Romantic
+NOT ESTABLISHED,Null/Unknown
+WIFE,Romantic
+SOME ACQUAINTANCE,Otherwise Known
+EX-GIRLFRIEND,Romantic
+FATHER,Other Family
+MOTHER,Other Family
+BROTHER,Other Family
+NONE,Stranger
+SON,Other Family
+ROOMMATES,Otherwise Known
+UNCLE,Other Family
+FRIENDS,Otherwise Known
+COUSIN,Other Family
+EX-BOYFRIEND,Romantic
+HUSBAND,Romantic
+EX-WIFE,Romantic
+SISTER,Other Family
+STEPFATHER,Other Family
+Null,
+DAUGHTER,Other Family
+PARAMOUR'S CHILD,Other Family
+BROTHER IN LAW,Other Family
+GRANDMOTHER,Other Family
+MOTHER'S PARAMOUR,Romantic
+MOTHER IN LAW,Other Family
+NEPHEW,Other Family
+WIFE COMMON LAW,Romantic
+GRANDFATHER,Other Family
+HUSBAND COMMON LAW,Romantic
+STEPDAUGHTER,Other Family
+NIECE,Other Family
+SISTER IN LAW,Other Family
+STEPSON,Other Family
+FOSTER BROTHER,Other Family
+HALF-BROTHER,Other Family
+HALF-SISTER,Other Family
+SON IN LAW,Other Family
+STEPMOTHER,Other Family
+CHILD,Other Family
+PATIENT,Other
+AUNT,Other Family
+FOSTER DAUGHTER,Other Family
+GRANDDAUGHTER,Other Family
